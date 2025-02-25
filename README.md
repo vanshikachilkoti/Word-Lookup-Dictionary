@@ -1,13 +1,17 @@
-# Word-Lookup-Dictionary
-WordLookup Dictionary is a lightweight web application that retrieves word definitions from the Oxford Learner’s Dictionary using web scraping. Built with Flask and BeautifulSoup, it provides users with a simple and efficient way to look up word meanings in real time. The interface is designed with a clean, responsive layout and includes both light and dark modes for an improved user experience.
+### **WordLookup Dictionary**  
 
-#Key Features
-Fetches accurate word definitions from the Oxford Learner’s Dictionary
-User-friendly interface with a modern, responsive design
-Dark mode support for better readability
-Lightweight and efficient, built with Flask and BeautifulSoup
+WordLookup Dictionary is a web-based application that retrieves word definitions from the Oxford Learner’s Dictionary using web scraping. Built with Flask and BeautifulSoup, it provides an intuitive and efficient way to look up word meanings in real time. The interface is designed for ease of use, featuring a responsive layout with light and dark modes to enhance readability.  
 
-#Technology Stack
-Backend: Flask (Python)
-Web Scraping: BeautifulSoup
-Frontend: HTML, Bootstrap, JavaScript
+### **Features**  
+- Retrieves precise definitions from the Oxford Learner’s Dictionary  
+- Clean, responsive user interface with dark mode support  
+- Fast and lightweight, leveraging Flask for the backend  
+- Seamless integration of web scraping for real-time results  
+
+### **Technology Stack**  
+- **Backend**: Flask (Python)  
+- **Web Scraping**: BeautifulSoup  
+- **Frontend**: HTML, Bootstrap, JavaScript  
+- **Deployment**: Vercel or Flask-based server  
+
+This project is designed for users who need quick and reliable word definitions in a simple, accessible format.
